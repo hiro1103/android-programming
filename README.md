@@ -1,9 +1,9 @@
 # android-programming
-androidの成果物
+androidアプリの実装
 
-#Janken
+1・Janken
 じゃんけんアプリ作成
 
-#MySize
+2.MySize
 体型記録アプリ
 
