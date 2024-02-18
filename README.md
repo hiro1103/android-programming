@@ -1,7 +1,7 @@
 # android-programming
 androidアプリの実装
 
-1・Janken
+#Janken
 じゃんけんアプリ作成
 
 2.MySize
